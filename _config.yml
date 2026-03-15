@@ -1,3 +1,10 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-dinky
 title: Matthew Craghead
-description: Data. Sound. Wonder.
+tagline: Data. Sound. Wonder.
+description: PNW-based IT Systems Administrator with passions for music, nature, and ambitious whimsy.
+url: 'https://mattcrag.com'
+
+instagram:
+  username: mattcrag
+
+avatar: https://avatars.githubusercontent.com/u/175430061
