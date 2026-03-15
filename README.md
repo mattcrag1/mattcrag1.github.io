@@ -1,2 +1,2 @@
-# Matthew Craghead
-Technical portfolio site in progress! Stay tuned :)
+## Site in progress
+Technical portfolio site under construction! Stay tuned :)
